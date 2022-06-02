@@ -4,4 +4,4 @@
 
 > [js-leetcode](https://github.com/cunzaizhuyi/js-leetcode)
 >
-> [js-leetcode](https://github.com/cunzaizhuyi/ds-algorithm)
+> [ds-algorithm](https://github.com/cunzaizhuyi/ds-algorithm)
